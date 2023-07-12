@@ -41,13 +41,18 @@ body {
   .property {
     margin-bottom: 40px;
   }
-  
-  .property img {
+
+.property img.rounded-image {
+  width: 100%; /* Cambia el valor según tus necesidades */
+  height: auto; /* La altura se ajusta automáticamente para mantener la proporción */
+  border-radius: 10px; /* Ajusta el valor para controlar el nivel de redondez */
+}
+/*  .property img {
     width: 100%;
     max-width: 400px;
     height: auto;
   }
-  
+*/  
   .property h3 {
     font-size: 20px;
     margin: 10px 0;
