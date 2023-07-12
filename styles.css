@@ -7,7 +7,7 @@ body {
   
   /* Estilos del encabezado */
   header {
-    background-color: #333;
+    background-color: #0b0b0b;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -35,7 +35,7 @@ body {
   
   /* Estilos de las propiedades destacadas */
   .featured-properties {
-    background-color: #f7f7f7;
+    background-color: 0e3b89;
   }
   
   .property {
@@ -60,7 +60,7 @@ body {
   
   /* Estilos del pie de página */
   footer {
-    background-color: #333;
+    background-color: #0a0a0a;
     color: #fff;
     padding: 20px;
     text-align: center;
